@@ -1,0 +1,14 @@
+#person:
+#  name: lijun
+#  age: 23
+#  sex: true
+#  list:
+#    - 111
+#    - 222
+#    - 333
+#  map: {address: nanjing,phone: 110}
+#  dog:
+#    dogName: wangcai
+#    dogAge: 7
+
+
